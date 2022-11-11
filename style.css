@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'futura';
+  src:  url("/fonts/futura_book_font-webfont.woff2") format("woff2"),
+  url("/fonts/futura_book_font-webfont.woff") format("woff");
+}
+@font-face {
+  font-family: 'futura-medium';
+  src:  url("/fonts/futura_medium_bt-webfont.woff2") format("woff2"),
+  url("/fonts/futura_medium_bt-webfont.woff") format("woff");
+}
+@font-face {
+  font-family: 'futura-light';
+  src:  url("/fonts/futura-light-webfont.woff2") format("woff2"),
+  url("/fonts/futura-light-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'nimbusromno9l-regita';
+  src:  url("/fonts/nimbusromno9l-regita-webfont.woff2") format("woff2"),
+  url("/fonts/nimbusromno9l-regita-webfont.woff") format("woff");
+}
+@font-face {
+  font-family: 'nimbus-sans';
+  src:  url("/fonts/nimbus-sans-l.regular-webfont.woff2") format("woff2"),
+  url("/fonts/nimbus-sans-l.regular-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'sofia-pro-regular';
+  src:  url("/fonts/sofia_pro_regular-webfont.woff2") format("woff2"),
+  url("/fonts/sofia_pro_regular-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'sofia-pro-semibold';
+  src:  url("/fonts/sofia_pro_semibold-webfont.woff2") format("woff2"),
+  url("/fonts/sofia_pro_semibold-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'sofia-pro-light';
+  src:  url("/fonts/sofia_pro-light-webfont.woff2") format("woff2"),
+  url("/fonts/sofia_pro-light-webfont.woff") format("woff");
+}
+
+#papierpeint{
+ right: 49rem;
+top: 77rem;}
+
+#ptitmenu{
+border-color: #ADB5BD;
+}
+
+.reassurance{
+  border-color: #ADB5BD;
+}
+
+#buyitnow {
+    top: 60%;
+    left: 79.5%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-family: 'futura';
+}
+
+.sales {
+    top: 10%;
+    left: 16%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+/* surbrillance */
+
+.opacity:not(:hover){
+    opacity: 0.85;
+}
+
+hr{
+width: 17.5% !important;
+}
